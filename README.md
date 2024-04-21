@@ -1,0 +1,1 @@
+# Submission for EO Onboard Edge AI challenge
